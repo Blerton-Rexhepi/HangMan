@@ -1,0 +1,16 @@
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.exe
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.deps.json
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.runtimeconfig.json
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.runtimeconfig.dev.json
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.dll
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\ref\HangmanAppTest.dll
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\bin\Debug\net5.0\HangmanAppTest.pdb
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.csproj.AssemblyReference.cache
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.AssemblyInfoInputs.cache
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.AssemblyInfo.cs
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.dll
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\ref\HangmanAppTest.dll
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.pdb
+C:\Users\Jezus PC\Desktop\HangMan\HangmanAppTest\HangmanAppTest\obj\Debug\net5.0\HangmanAppTest.genruntimeconfig.cache
